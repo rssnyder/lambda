@@ -1,4 +1,4 @@
-service: aws-python
+service: <+service.identifier>
 
 frameworkVersion: '3'
 
